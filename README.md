@@ -1,5 +1,5 @@
-###Just some notes while I learn some stuff:
-##What is MVC? (Model-View-Controller)
+### Just some notes while I learn some stuff:
+## What is MVC? (Model-View-Controller)
 ASP.NET (Active Server Pages) MVC gives you a powerful, pattern-based way to build dynamic websites that enables a clean separation of concerns and that gives you full control over markup for enjoyable, agile development.
 ASP.NET MVP includes many features that enable fast development for creating sophisticated applications that use the latest web standards.
 
